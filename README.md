@@ -2,7 +2,7 @@
 ## This is a interactive map for visualize the crime data in the philadelphia and identify the crime count for each septa station
 
 
-## interaction tool;
+### interaction tool
 ### using hour selector and septa station selector 
     map1: the crime distribution based on hour and septa location( crimes within 1000m for each station)
     map2: each septa crime count 
