@@ -30,5 +30,11 @@ This is a interactive map for visualize the crime data in the philadelphia and i
 - 3 change the color of the layout(ui)
    need to learn more about the java script and CSS plugin for futher layout adjustment 
 
-## Final Visualization Map Deliverable
+## The initial interactive web preview
 ![Visulization Map](https://github.com/fangnandu/Crime-Shiny/blob/master/preview%20of%20the%20webapp.png "Visulization Map")
+## The changed interactive web preview ( by choosing hour =15; station = university city)
+     the first map shows where are the crime distribute around the univeristy city statoin
+     the second map shows how many crime counts for all hours( the crime risk level in station of university city)
+
+![Visulization Map](https://github.com/fangnandu/Crime-Shiny/blob/master/changedwebapp.png "Visulization Map")
+
