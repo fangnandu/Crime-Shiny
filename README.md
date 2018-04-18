@@ -30,3 +30,5 @@
 - 3 change the color of the layout(ui)
    need to learn more about the java script and CSS plugin for futher layout adjustment 
 
+## Final Visualization Map Deliverable
+![Visulization Map](https://github.com/fangnandu/Crime-Shiny/blob/master/preview%20of%20the%20webapp.png "Visulization Map")
