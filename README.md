@@ -2,12 +2,12 @@
 This is a interactive map for visualize the crime data in the philadelphia and identify the crime count for each septa station
 
 
-### interaction tool
+### A interaction tool
 #### using hour selector and septa station selector 
     map1: the crime distribution based on hour and septa location( crimes within 1000m for each station)
     map2: each septa crime count 
 
-### Assignment Steps:
+### B Assignment Steps:
 ##### 1. collect data
      the dataset is two:
      one : the crime data from 2016-2017 (sepcific fruad type)
@@ -30,11 +30,11 @@ This is a interactive map for visualize the crime data in the philadelphia and i
 - 3 change the color of the layout(ui)
    need to learn more about the java script and CSS plugin for futher layout adjustment 
 
-# The initial interactive web preview
+# C The initial interactive web preview
 
 ![Visulization Map](https://github.com/fangnandu/Crime-Shiny/blob/master/preview%20of%20the%20webapp.png "Visulization Map")
 ##
-# The changed interactive web preview ( by choosing hour =15; station = university city)
+# D The changed interactive web preview ( by choosing hour =15; station = university city)
      the first map shows where are the crime distribute around the univeristy city statoin
      the second map shows how many crime counts for all hours( the crime risk level in station of university city)
 ##
